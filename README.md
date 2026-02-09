@@ -8,7 +8,7 @@
     Todo o processo foi conduzido de forma estruturada, desde o tratamento dos dados até a comparação de modelos preditivos.
   </p>
  <p>
-  <h2 id="indice">📑 Índice</h2>
+  <h2 id="topo">📑 Índice</h2>
  <ul>
    <li><a href="#indice">indice</a></li>
    <li><a href="#objetivo-do-projeto">Objetivo do Projeto</a></li>
@@ -43,7 +43,10 @@
     Busquei não apenas a previsão, mas também a <strong>interpretação dos fatores que influenciam o cancelamento</strong>.
   </p>
 </div>
-<h4 align="right" id="indice"> ⬆️Índice</h4>
+<p align="right">
+  <a href="#topo">⬆️</a>
+</p>
+
 <hr>
 
 <h2 align="center" id="tratamento-e-preparacao-dos-dados">Etapa 1 — Tratamento e Preparação dos Dados</h2>
@@ -64,7 +67,11 @@
     evitar erros de execução e assegurar a coerência estatística durante a modelagem.
   </p>
 </div>
-<h4 align="right" id="indice"> ⬆️Índice</h4>
+
+<p align="right">
+  <a href="#topo">⬆️</a>
+</p>
+
 <h3>Codificação das variáveis categóricas</h3>
 <div>
   <p>
@@ -80,7 +87,10 @@
     informações qualitativas, como tipo de contrato, método de pagamento e serviços contratados.
   </p>
 </div>
-<h4 align="right" id="indice"> ⬆️Índice</h4>
+<p align="right">
+  <a href="#topo">⬆️</a>
+</p>
+
 <hr>
 
 <h2 align="center" id="normalizacao-dos-dados"><strong>Etapa 2 — Normalização dos Dados</strong></h2>
@@ -104,7 +114,10 @@
     e permitir uma comparação justa entre os modelos.
   </p>
 </div>
-<h4 align="right" id="indice">⬆️ Índice</h4>
+<p align="right">
+  <a href="#topo">⬆️</a>
+</p>
+
 <hr>
 
 <h2 align="center" id="selecao-das-variaveis-explicativas"><strong>Etapa 3 — Seleção das Variáveis Explicativas</strong></h2>
@@ -121,7 +134,10 @@
   </ul>
 </div>
 
-<h4 align="right" id="indice"> ⬆️Índice</h4>
+<p align="right">
+  <a href="#topo">⬆️</a>
+</p>
+
 <h3>Justificativa para exclusão de variáveis</h3>
 <div>
   <p>
@@ -138,7 +154,10 @@
     menos suscetível a overfitting e computacionalmente mais eficiente.
   </p>
 </div>
-<h4 align="right" id="indice"> ⬆️Índice</h4>
+<p align="right">
+  <a href="#topo">⬆️</a>
+</p>
+
 
 <h3>Impacto das variáveis selecionadas no Churn</h3>
 <div>
@@ -157,7 +176,10 @@
     satisfação e percepção de valor por parte do cliente.
   </p>
 </div>
-<h4 align="right" id="indice">⬆️ Índice</h4>
+<p align="right">
+  <a href="#topo">⬆️</a>
+</p>
+
 <hr>
 
 <h2 align="center" id="modelos-de-machine-learning"><strong>Etapa 4 - Escolha dos Modelos de Machine Learning</strong></h2>
@@ -178,7 +200,10 @@
     <li>Capacidade de identificar interações entre variáveis</li>
   </ul>
 </div>
-<h4 align="right" id="indice">⬆️ Índice</h4>
+<p align="right">
+  <a href="#topo">⬆️</a>
+</p>
+>
 <hr>
 
 <h2 align="center" id="comparacao-dos-resultados"><strong>Etapa 5 — Comparação dos Resultados</strong></h2>
@@ -201,7 +226,10 @@
     para aplicação prática.
   </p>
 </div>
-<h4 align="right" id="indice">⬆️ Índice</h4>
+<p align="right">
+  <a href="#topo">⬆️</a>
+</p>
+
 <hr>
 
 <h2 align="center" id="perfil-do-cliente-com-alto-risco-de-churn"><strong>Perfil do Cliente com Alto Risco de Churn</strong></h2>
@@ -212,7 +240,10 @@
   <li>Método de pagamento manual</li>
   <li>Ausência de serviços adicionais (segurança, suporte técnico)</li>
 </ul>
-<h4 align="right" id="indice">⬆️ Índice</h4>
+<p align="right">
+  <a href="#topo">⬆️</a>
+</p>
+
 <hr>
 
 <h2 align="center" id="medidas-estrategicas-para-retencao-de-clientes"><strong>Medidas Estratégicas para Retenção de Clientes</strong></h2>
@@ -224,7 +255,10 @@
   <li>Reavaliar a experiência de pagamento eletrônico</li>
   <li>Desenvolver campanhas personalizadas para clientes com baixo tenure</li>
 </ul>
-<h4 align="right" id="indice">⬆️ Índice</h4>
+<p align="right">
+  <a href="#topo">⬆️</a>
+</p>
+
 <hr>
 
 <h2 align="left" id="instrucoes-para-notebook"><strong>Instruções para executar o notebook</strong></h2>
@@ -242,7 +276,10 @@
 
 <br>
 <strong>Um relatório resumido também esta disponivel neste repositório, no formato PDF. </strong>
-<h4 align="right" id="indice">⬆️ Índice</h4>
+<p align="right">
+  <a href="#topo">⬆️</a>
+</p>
+
 <hr>
 
 <h4 align="left">📬Contato</h4>
