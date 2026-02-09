@@ -42,6 +42,11 @@
   <p>
     Busquei não apenas a previsão, mas também a <strong>interpretação dos fatores que influenciam o cancelamento</strong>.
   </p>
+  <img  height="250" alt="Proporção de Churn" src="https://github.com/deanesaraiva/TelecomX_C2/blob/main/grafico_prop_clientes.png"/>
+  <img  height="250" alt="Variaveis Evasivas" src="https://github.com/deanesaraiva/TelecomX_C2/blob/main/grafico_modelos.png"/>
+  <img  height="250" alt="Clientes" src="https://github.com/deanesaraiva/TelecomX_C2/blob/main/grafico_perfil_clientes.png"/>
+  <img  height="250" alt="Variaveis Evasivas" src="https://github.com/deanesaraiva/TelecomX_C2/blob/main/grafico_variaveis_evasivas.png"/>
+  
 </div>
 <p align="right">
   <a href="#topo">⬆️</a>
@@ -121,6 +126,10 @@
 <hr>
 
 <h2 align="center" id="selecao-das-variaveis-explicativas"><strong>Etapa 3 — Seleção das Variáveis Explicativas</strong></h2>
+## 📊 Variáveis mais associadas à evasão (Churn)
+![Gráfico de Variáveis Evasivas](grafico_variaveis_evasivas.png)
+O gráfico acima mostra as variáveis com maior impacto na evasão de clientes.
+
 <h3>Critérios de escolha</h3>
 <div>
   <p>
@@ -254,7 +263,10 @@
   <li>Atuar nos primeiros meses do cliente com ações de engajamento</li>
   <li>Reavaliar a experiência de pagamento eletrônico</li>
   <li>Desenvolver campanhas personalizadas para clientes com baixo tenure</li>
+  <br>
+  <li>Uso do simulador desenvolvido como identificação de Probabilidade de Churn</li>
 </ul>
+<img  height="250" alt="Simulador" src="https://github.com/deanesaraiva/TelecomX_C2/blob/main/grafico_simulador.png"/>
 <p align="right">
   <a href="#topo">⬆️</a>
 </p>
